@@ -1,0 +1,8 @@
+table.table_class tr:nth-child(odd) {
+    background: aliceblue;
+    color: black
+}
+table.table_class tr:nth-child(even) {
+    background: black;
+    color: aliceblue
+}
